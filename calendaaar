@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <style>
+        body {
+            background-color:  #2f3437; <!-- set this value to match your background color (#2f3437 is the default "dark" theme color) -->
+        }
+    </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Notion Widget Embed Template</title>
+</head>
+<body>
+  
+  <p class="codepen" data-height="265" data-theme-id="light" data-default-tab="js,result" data-user="anoudey" data-slug-hash="MWbWYwa" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="hehe">
+  <span>See the Pen <a href="https://codepen.io/anoudey/pen/MWbWYwa">
+  hehe</a> by anou (<a href="https://codepen.io/anoudey">@anoudey</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+  
+</body>
+</html>
